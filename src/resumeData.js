@@ -105,13 +105,13 @@ let resumeData = {
       "name": "Project 3",
       "description": "Mobile app",
       "imgurl": "images/portfolio/sentinelLogo.png",
-      "link": "https://google.com"
+      "link": "#"
     },
     {
       "name": "Hackathon",
       "description": "Web app",
       "imgurl": "images/portfolio/alfredLogo.png",
-      "link": ""
+      "link": "https://visualstorageintelligence.com/ai-hackathon-finals/"
     },
     {
       "name": "Crystal Game",
