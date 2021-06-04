@@ -2,12 +2,12 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alex05d.github.io/newRepo",
   "dependencies": {
     "jquery": "^3.6.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1",
-    "homepage": "https://alex05d.github.io/newRepo"
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
