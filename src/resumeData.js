@@ -105,7 +105,7 @@ let resumeData = {
       "name": "Project 3",
       "description": "Mobile app",
       "imgurl": "images/portfolio/sentinelLogo.png",
-      "link": ""
+      "link": "https://google.com"
     },
     {
       "name": "Hackathon",
