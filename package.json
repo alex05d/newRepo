@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alex05d.github.io/resume",
+  "homepage": "http://alex05d.github.io/resume",
   "dependencies": {
     "jquery": "^3.6.0",
     "react": "^16.6.0",
