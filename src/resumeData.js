@@ -132,6 +132,12 @@ let resumeData = {
       "link": "https://intense-basin-79942.herokuapp.com/"
     },
     {
+      "name": "Trivia Game",
+      "description": "Web app",
+      "imgurl": "images/portfolio/trivia.png",
+      "link": "https://alex05d.github.io/TriviaGame/"
+    },
+    {
       "name": "Phychic Game",
       "description": "Web app",
       "imgurl": "images/portfolio/psychic_game.png",
